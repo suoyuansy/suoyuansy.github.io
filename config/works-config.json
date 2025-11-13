@@ -1,0 +1,17 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "IntelliSense - Smart Environmental Monitoring System",
+      "description": "An IoT-based environmental monitoring system with real-time data visualization and predictive analytics capabilities.",
+      "tech": "IoT Sensors, ESP32, Python, Flask, PostgreSQL, React.js, Machine Learning, MQTT",
+      "image": "assets/images/work/smart-environmental-monitor/smart-environmental-monitor.jpg",
+      "links": [
+        {
+          "text": "View Details",
+          "url": "content/works/smart-environmental-monitor.md"
+        }
+      ]
+    }
+  ]
+}

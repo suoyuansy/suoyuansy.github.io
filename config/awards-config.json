@@ -1,0 +1,22 @@
+{
+  "awards": [
+    {
+      "id": 1,
+      "title": "Github Competition 🏆 First Prize",
+      "organization": "Github",
+      "date": "2025",
+      "description": "Outstanding performance in the Github competition",
+      "img": "assets/images/award/competition.jpg",
+      "news": "https://github.com"
+    },
+    {
+      "id": 2,
+      "title": "Github Competition 🏅 Second Prize",
+      "organization": "National Level",
+      "date": "2025",
+      "description": "Logistics handling robots in home scenarios efficiently complete tasks",
+      "img": "assets/images/award/competition.jpg",
+      "news": ""
+    }
+  ]
+}

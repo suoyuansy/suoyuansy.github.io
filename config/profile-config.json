@@ -1,0 +1,283 @@
+{
+  "profile": {
+    "name": "your-name",
+    "title": "Undergraduate Student",
+    "description": "your-description",
+    "image": "assets/images/profile.jpg",
+    "motto": "Doubt is the key to knowledge.",
+    "personal-info": {
+      "location": {
+        "value": "New York, USA",
+        "icon": "location.svg",
+        "url": ""
+      },
+      "institution": {
+        "value": "Github University",
+        "icon": "institution.svg",
+        "url": "https://github.com/"
+      },
+      "identity": {
+        "value": "Undergraduate Student",
+        "icon": "identity.svg",
+        "url": ""
+      },
+      "major": {
+        "value": "Git Science and Technology",
+        "icon": "major.svg",
+        "url": ""
+      },
+      "email": {
+        "value": "your-email@address.com",
+        "icon": "email.svg",
+        "url": "mailto:your-email@address.com"
+      }
+    },
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "github.svg"
+      },
+      {
+        "name": "Gitee",
+        "url": "https://gitee.com",
+        "icon": "gitee.svg"
+      },
+       {
+        "name": "Facebook",
+        "url": "",
+        "icon": "facebook.svg"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "",
+        "icon": "google-scholar.svg"
+      },
+      {
+        "name": "ORCID",
+        "url": "",
+        "icon": "orcid.svg"
+      },
+      {
+        "name": "Academia",
+        "url": "",
+        "icon": "academia.svg"
+      },
+      {
+        "name": "ArXiv",
+        "url": "",
+        "icon": "arxiv.svg"
+      },
+      {
+        "name": "INSPIRE-HEP",
+        "url": "",
+        "icon": "inspire-hep.svg"
+      },
+      {
+        "name": "ImpactStory",
+        "url": "",
+        "icon": "impactstory.svg"
+      },
+      {
+        "name": "Semantic Scholar",
+        "url": "",
+        "icon": "semantic.svg"
+      },
+      {
+        "name": "PubMed",
+        "url": "",
+        "icon": "pubmed.svg"
+      },
+      {
+        "name": "ResearchGate",
+        "url": "",
+        "icon": "researchgate.svg"
+      },
+      {
+        "name": "Obsidian",
+        "url": "",
+        "icon": "obsidian.svg"
+      },
+      {
+        "name": "CV",
+        "url": "",
+        "icon": "resume.svg"
+      },
+      {
+        "name": "CSDN",
+        "url": "",
+        "icon": "csdn.svg"
+      },
+      {
+        "name": "Yuque",
+        "url": "",
+        "icon": "yuque.svg"
+      },
+      {
+        "name": "Bilibili",
+        "url": "",
+        "icon": "bilibili.svg"
+      },
+      {
+        "name": "Zhihu",
+        "url": "",
+        "icon": "zhihu.svg"
+      },
+      {
+        "name": "TikTok",
+        "url": "",
+        "icon": "tiktok.svg"
+      },
+      {
+        "name": "RedBook",
+        "url": "",
+        "icon": "redbook.svg"
+      },
+      {
+        "name": "Scopus",
+        "url": "",
+        "icon": "scopus.svg"
+      },
+      {
+        "name": "Bitbucket",
+        "url": "",
+        "icon": "bitbucket.svg"
+      },
+      {
+        "name": "CodePen",
+        "url": "",
+        "icon": "codepen.svg"
+      },
+      {
+        "name": "Dribbble",
+        "url": "",
+        "icon": "dribbble.svg"
+      },
+      {
+        "name": "Kaggle",
+        "url": "",
+        "icon": "kaggle.svg"
+      },
+      {
+        "name": "Stack Overflow",
+        "url": "",
+        "icon": "stackoverflow.svg"
+      },
+      {
+        "name": "ArtStation",
+        "url": "",
+        "icon": "artstation.svg"
+      },
+      {
+        "name": "Bluesky",
+        "url": "",
+        "icon": "bluesky.svg"
+      },
+      {
+        "name": "Flickr",
+        "url": "",
+        "icon": "flickr.svg"
+      },
+      {
+        "name": "Foursquare",
+        "url": "",
+        "icon": "foursquare.svg"
+      },
+      {
+        "name": "Goodreads",
+        "url": "",
+        "icon": "goodreads.svg"
+      },
+      {
+        "name": "Google Plus",
+        "url": "",
+        "icon": "google-plus.svg"
+      },
+      {
+        "name": "Keybase",
+        "url": "",
+        "icon": "keybase.svg"
+      },
+      {
+        "name": "Instagram",
+        "url": "",
+        "icon": "instagram.svg"
+      },
+      {
+        "name": "Last.fm",
+        "url": "",
+        "icon": "lastfm.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "",
+        "icon": "linkedin.svg"
+      },
+      {
+        "name": "Mastodon",
+        "url": "",
+        "icon": "mastodon.svg"
+      },
+      {
+        "name": "Medium",
+        "url": "",
+        "icon": "medium.svg"
+      },
+      {
+        "name": "Pinterest",
+        "url": "",
+        "icon": "pinterest.svg"
+      },
+      {
+        "name": "SoundCloud",
+        "url": "",
+        "icon": "soundcloud.svg"
+      },
+      {
+        "name": "Steam",
+        "url": "",
+        "icon": "steam.svg"
+      },
+      {
+        "name": "Telegram",
+        "url": "",
+        "icon": "telegram.svg"
+      },
+      {
+        "name": "Tumblr",
+        "url": "",
+        "icon": "tumblr.svg"
+      },
+      {
+        "name": "Twitter",
+        "url": "",
+        "icon": "twitter.svg"
+      },
+      {
+        "name": "Vine",
+        "url": "",
+        "icon": "vine.svg"
+      },
+      {
+        "name": "Weibo",
+        "url": "",
+        "icon": "weibo.svg"
+      },
+      {
+        "name": "Wikipedia",
+        "url": "",
+        "icon": "wikipedia.svg"
+      },
+      {
+        "name": "Xing",
+        "url": "",
+        "icon": "xing.svg"
+      },
+      {
+        "name": "YouTube",
+        "url": "",
+        "icon": "youtube.svg"
+      }
+    ]
+  }
+}
