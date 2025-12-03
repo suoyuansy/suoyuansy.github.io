@@ -1,1 +1,3 @@
+#  Academic Website
+
 This repo was originally forked from Aaron Chou's Academic Website Template and has been further customized to build SuoYuan's personal academic homepage.
