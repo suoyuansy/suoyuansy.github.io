@@ -1,0 +1,40 @@
+{
+  "awards": [
+    {
+      "id": 1,
+      "title": "RoboMaster 2025 (Zhejiang) 🏆 First Prize (Runner-up)",
+      "organization": "DJI RoboMaster, co-hosted by CYL Central Committee, National Union of Students & Shenzhen Municipal Government",
+      "date": "March 2025",
+      "description": "As team captain of WHU LuojiaFox, led Wuhan University to its first-ever RM provincial first prize. Multi-robot autonomous localization, navigation and vision-based target tracking for tactical combat.",
+      "img": "assets/images/award/RM.jpg",
+      "news": "https://mp.weixin.qq.com/s/7cZJ-fV4WwXA3E49jD1Bvg"
+    },
+    {
+      "id": 2,
+      "title": "China Robotics & AI Contest – Smart-Home 🏆 Champion ",
+      "organization": "Chinese Association for Artificial Intelligence",
+      "date": "July 2025",
+      "description": "Team captain representing WHU Engineering Practice & Innovation Club in its debut; autonomous grasping & QR-code-based sorting of household items.",
+      "img": "assets/images/award/CRAIC.jpg",
+      "news": ""
+    },
+    {
+      "id": 3,
+      "title": "RAICOM Fruit-Eye Challenge 🏆 First Prize (Runner-up)",
+      "organization": "Ministry of Industry & Information Technology Talent Center",
+      "date": "August 2025",
+      "description": "As captain, led fully-autonomous fruit detection, ripeness recognition and robotic harvesting into designated bins.",
+      "img": "assets/images/award/raicom.jpg",
+      "news": "https://mp.weixin.qq.com/s/TEq7Q20iFrmV68r2q15VFQ"
+    },
+    {
+      "id": 4,
+      "title": "Intelligent-Robot Contest – Rubik’s Robot 🥈 2nd Prize",
+      "organization": "Zhejiang University Robotics Institute & Yuyao Municipal Government",
+      "date": "August 2025",
+      "description": "Team captain; first time WHU reached the finals. Dual-arm robot solving 3×3 Rubik’s cube as fast as possible.",
+      "img": "assets/images/award/cube.jpg",
+      "news": ""
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "education": [
+      {
+      "id": 0,
+      "degree": "High School Diploma",
+      "institution": "The Affiliated High School of CCNU (No.1)",
+      "major": "Science (Physics, Chemistry, Geography)",
+      "startDate": "2019",
+      "endDate": "2022",
+      "description": "Physics class representative. School outstanding student. Strength subjects: Mathematics and Physics.",
+      "schoolImg": "assets/images/school/华师一.jpg"
+    },
+    {
+      "id": 1,
+      "degree": "Bachelor of Engineering",
+      "institution": "Wuhan University",
+      "major": "Photogrammetry",
+      "startDate": "2022",
+      "endDate": "2026",
+      "description": "School of Remote Sensing Information Engineering. Senior undergraduate. Recommended for direct PhD program.",
+      "schoolImg": "assets/images/school/WHU.jpg",
+      "departmentImg": "assets/images/school/RSGIS.jpg"
+    },
+    {
+      "id": 2,
+      "degree": "Ph.D. Candidate of Engineering",
+      "institution": "Aerospace Information Research Institute, Chinese Academy of Sciences",
+      "major": "Remote Sensing Science and Technology (Visual Localization and Navigation)",
+      "startDate": "2026",
+      "endDate": "2031",
+      "description": "Direct PhD program at PMRS Laboratory. Expected graduation: 2031",
+      "schoolImg":"assets/images/school/国科大.jpg",
+      "departmentImg": "assets/images/school/空天院.jpg"
+    }
+  ],
+  "research": [
+    {
+      "id": 1,
+      "title": "Direct Ph.D. Student",
+      "organization": "Aerospace Information Research Institute, Chinese Academy of Sciences",
+      "mentors": "Prof. Kaichang Di",
+      "description": "Research on visual localization and navigation, robotics, and autonomous systems at PMRS Laboratory",
+      "startDate": "2026",
+      "endDate": "2031",
+      "schoolImg":"assets/images/school/国科大.jpg",
+      "departmentImg": "assets/images/school/空天院.jpg"
+    }
+  ],
+  "occupation": [
+  ]
+}

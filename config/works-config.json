@@ -1,0 +1,43 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "Autonomous Item-Handling & Fruit-Harvesting Robots",
+      "description": "A unified series of mobile manipulators for fully-autonomous fruit detection, ripeness recognition and robotic harvesting into designated bins, as well as autonomous grasping & QR-code-based sorting of household items.",
+      "tech": "Jetson Orin NX, STM32F407, Mid-360 LiDAR, YOLOv5, OpenCV, POINT-LIO, FAST-LIO, Mecanum Wheels, Stepper Motors, Laser Ranging",
+      "image": "assets/images/work/RAICOM/RAICOM.jpg",
+      "links": [
+        {
+          "text": "View Details",
+          "url": "content/works/autonomous-robot-series.md"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rubik’s-Cube Solving Dual-Arm Robot",
+      "description": "High-speed 3×3×3 Rubik’s-cube restoration with two 4-DOF arms in the shortest possible time; achieves sub-10-s solves via binary-tree move pruning and k-means++ color clustering.",
+      "tech": "STM32G431, USB 2.0 Camera, OpenCV, kmeans++, Servo Motors, Binary-Tree Pruning Algorithm",
+      "image": "assets/images/work/cube/cube.jpg",
+      "links": [
+        {
+          "text": "View Details",
+          "url": "content/works/cube-solver.md"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "RoboMaster Multi-Robot Autonomous Combat System",
+      "description": "RM 2025 team-level entry: design & field infantry, sentry ,hero and engineering robots that can navigate, auto-aim and fight in a 3-vs-3 tactical match; tasks include armor-plate vision tracking, LiDAR-based navigation, coordinated strike and real-time multi-robot command.",
+      "tech": "Jetson Orin NX, STM32F407, Mid-360 LiDAR, YOLOv5, TensorRT, OpenCV, PnP, EKF, Omni-Directional Wheels, 3508/6020 Motors",
+      "image": "assets/images/work/RM/RM1.jpg",
+      "links": [
+        {
+          "text": "View Details",
+          "url": "content/works/RoboMaster.md"
+        }
+      ]
+    }
+  ]
+}

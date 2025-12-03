@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Suo Yuan",
+    "title": "Undergraduate Student",
+    "description": "Undergraduate student at Wuhan University, recommended for direct PhD program at Aerospace Information Research Institute, Chinese Academy of Sciences",
+    "image": "assets/images/profile2.jpg",
+    "motto": "Doubt is the key to knowledge.",
+    "personal-info": {
+      "location": {
+        "value": "Wuhan, China",
+        "icon": "location.svg",
+        "url": ""
+      },
+      "institution": {
+        "value": "Wuhan University",
+        "icon": "institution.svg",
+        "url": "https://www.whu.edu.cn"
+      },
+      "identity": {
+        "value": "Undergraduate Student",
+        "icon": "identity.svg",
+        "url": ""
+      },
+      "major": {
+        "value": "Photogrammetry",
+        "icon": "major.svg",
+        "url": ""
+      },
+      "email": {
+        "value": "2022302131225@whu.edu.cn",
+        "icon": "email.svg",
+        "url": "mailto:2022302131225@whu.edu.cn"
+      }
+    },
+    "social": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com",
+        "icon": "github.svg"
+      },
+      {
+        "name": "Gitee",
+        "url": "https://gitee.com",
+        "icon": "gitee.svg"
+      },
+      {
+        "name": "CSDN",
+        "url": "https://www.csdn.net",
+        "icon": "csdn.svg"
+      }
+    ]
+  }
+}
